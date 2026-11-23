@@ -1,0 +1,106 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "7ef55eb6-2243-41d1-9a28-46dd1165bfe3")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at -321.31 16.51)
+		(size 285.75 182.88)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "391ac5c1-802e-422d-bc54-cf4ce4971ef9")
+		(property "Sheetname" "sch1.kicad_sch"
+			(at -321.31 15.7984 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sch2.kicad_sch"
+			(at -321.31 199.9746 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pdurocket"
+				(path "/7ef55eb6-2243-41d1-9a28-46dd1165bfe3"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at -645.16 21.59)
+		(size 302.26 182.88)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e16df346-baca-4678-9eda-6edb69f5c674")
+		(property "Sheetname" "sch2.kicad_sch"
+			(at -645.16 20.8784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at -645.16 205.0546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pdurocket"
+				(path "/7ef55eb6-2243-41d1-9a28-46dd1165bfe3"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
